@@ -97,9 +97,7 @@ li a.dropdown-toggle::after {
   background: #808286;
 }
 
-/* ---------------------------------------------------
-    CONTENT STYLE
------------------------------------------------------ */
+/* content */
 .content {
   padding: 20px;
   margin-left: 0;

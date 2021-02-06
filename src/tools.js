@@ -1,1 +1,1 @@
-export const isEmpty = (object, alter) => object === "" || typeof object === "undefined" || typeof object === null ? alter : object;
+export const isEmpty = (object, alter) => object === "" ||  object === "undefined" ||  object === null ? alter : object;
