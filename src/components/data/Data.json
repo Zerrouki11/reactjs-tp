@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Marie Doe",
+      "content": "Lorem ipsum dolor sit amet, <b>consecteturadipiscing elit</b>. Integer eget fringilla justo, at posuere mauris. Donec egestas pharetra aliquam. Nullam vehicula metusnisl, vel ullamcorper libero varius vel. Integer bibendum placerat congue. Cras convallis semper hendrerit. Maecenas sedfelis erat. Aenean sed maximus magna, vitae auctor lectus.Vestibulum suscipit mi purus. Nunc placerat ac mauris utporttitor. Suspendisse potenti. Cras iaculis interdumelit.<br/> <br/> Duis a nunc vel arcu blandit porta pretium vehicula ipsum. <b><i>Mauris at cursus lacus</i></b>, eufinibus nisi. Etiam in ultricies leo. Suspendisse potenti. Donec hendrerit pretium ex at consectetur. Cras nec metusrisus.'<br/>",
+      "likes": 5,
+      "dislikes": 0,
+      "comments": [
+        {
+          "id": 1,
+          "user": "john Doe",
+          "content": "lorem ipsum ndit porta pretium vehicula ipsum. Mauris at cursus ",
+          "likes": 2,
+          "dislikes": 0
+        },
+        {
+          "id": 2,
+          "user": "Marie Doe",
+          "content": "lorem ipsum ndit porta pretium vehicula ipsum. Mauris at cursus, ndit porta pretium vehicula ipsum. Mauris at cursus",
+          "likes": 2,
+          "dislikes": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user": "John Doe",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget fringilla justo, at posuere mauris. Nullam vehicula metus nisl, vel ullamcorper libero varius vel. Integer bibendum<br/>lacinia dictum. Cras nec metus risus.<br/>",
+      "likes": 0,
+      "dislikes": 0,
+      "comments": [
+        {
+          "id": 1,
+          "user": "John Doe",
+          "content": "lorem ipsum",
+          "likes": 0,
+          "dislikes": 0
+        }
+      ]
+    }
+  ]
+}

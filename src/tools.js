@@ -1,0 +1,1 @@
+export const isEmpty = (object, alter) => object === "" || typeof object === "undefined" || typeof object === null ? alter : object;
